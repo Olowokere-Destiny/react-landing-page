@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.c7345641.css",
+    "main.js": "/react-landing-page/static/js/main.a34afa62.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-landing-page/static/js/787.28cb0dcd.chunk.js",
+    "static/media/header-img.jpg": "/react-landing-page/static/media/header-img.445ae0dda93dd3cce522.jpg",
+    "static/media/delivery-box.jpg": "/react-landing-page/static/media/delivery-box.f386a814ba74ecf8e016.jpg",
+    "static/media/pizza.png": "/react-landing-page/static/media/pizza.a4fd86af77ff5a8bab97.png",
+    "static/media/delivered-box.jpg": "/react-landing-page/static/media/delivered-box.1eea57bcc6185e06317a.jpg",
+    "static/media/macbook.png": "/react-landing-page/static/media/macbook.bd40b5324185cc910916.png",
+    "static/media/scooter.png": "/react-landing-page/static/media/scooter.69b5f67c095d044b275b.png",
+    "static/media/iphone.png": "/react-landing-page/static/media/iphone.331f808f0898c3f001e0.png",
+    "static/media/mark.png": "/react-landing-page/static/media/mark.1c90eeb26fb7b0f1bc9b.png",
+    "index.html": "/react-landing-page/index.html",
+    "main.c7345641.css.map": "/react-landing-page/static/css/main.c7345641.css.map",
+    "main.a34afa62.js.map": "/react-landing-page/static/js/main.a34afa62.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-landing-page/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7345641.css",
+    "static/js/main.a34afa62.js"
+  ]
+}
